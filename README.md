@@ -14,12 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a growth-oriented professional with an enriching experience of more than 18 years in sales, operations, channel management, project management and people handling. 
+I am a growth-oriented professional with an enriching experience of more than 18 years in sales, operations, channel management, project management and people handling.<br> 
+Ex-MCP, Ex-MCPD, Ex-MCTS and Ex-MCT
 
 <b>Skills:</b><br>
 <i>Technical Skills </i><br>
 •	Excellence in MS office tools – Advanced Excel, Access, Powerpoint and Word<br>
-•	Programming languages - Java, .Net, SQL Server, PL/SQL, C, C++, C#, Oracle, HTML, XML, Visual Basic and ASP .Net<br><br>
+•	Programming languages - Java, .Net, SQL, C, C++, C#, Oracle, HTML, XML, Visual Basic and ASP.Net<br><br>
 <i>Inter-personal Skills</i><br>
 •	Critical thinking, Decision making and problem solving <br>
 •	Influencing, leading, negotiating and delegating abilities <br>
